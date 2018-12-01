@@ -11,3 +11,5 @@ def run_guessing_game
   exit
   break
 end
+
+ironboard
